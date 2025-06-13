@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class TriangleAreaConversion {
+class TriangleAreaConversion {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         double base = input.nextDouble();
