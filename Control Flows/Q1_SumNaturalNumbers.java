@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Q1_SumNaturalNumbers {
+Q1_SumNaturalNumbers {
     public static void main(String... args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
